@@ -34,4 +34,4 @@ Add
 https://raw.githubusercontent.com/AITT-VN/ohstem_arduino_board/main/package_xcon_index.json
 ```
 
-  
+When connecting to your Yolo UNO board with Arduino, you have to confirm to install **"OhStem Boards [v 3.1.3]"** download the OhStem board definition 3.1.3 with ESP32-S3. It will install **platform: 'OhStem:esp32:3.1.3'**.
